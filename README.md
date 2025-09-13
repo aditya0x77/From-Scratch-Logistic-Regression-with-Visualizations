@@ -8,15 +8,19 @@ This repository includes both a practical application on a real dataset and addi
 ---
 
 ## 📊 Dataset
-- The dataset used is **possum data** from Kaggle.  
+- The dataset used is **[possum data](https://www.kaggle.com/datasets/abrambeyer/openintro-possum)** from Kaggle.  
 - The main logistic regression model determines the **sex of a possum** based on multiple features in the dataset.  
 
 ---
 
 ## 🚀 Model Performance
-- Optimization: Gradient Descent  
-- Visualization: Cost vs Iteration graph  
-- **Accuracy:** `73.63%`  
+
+- **Optimization:** Gradient Descent  
+- **Evaluation Metric:** Accuracy  
+- **Final Accuracy:** `73.63%`  
+- **Training Visualization:** Convergence of the cost function over iterations  
+
+![Cost vs Iteration](cost_vs_iter.png)
 
 ---
 

@@ -38,4 +38,5 @@ This notebook uses **synthetic data** and provides visualizations:
 
 ![contour](Images/contour.gif)
 
+
 ---

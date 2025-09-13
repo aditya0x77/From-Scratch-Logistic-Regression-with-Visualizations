@@ -20,7 +20,7 @@ This repository includes both a practical application on a real dataset and addi
 - **Final Accuracy:** `73.63%`  
 - **Training Visualization:** Convergence of the cost function over iterations  
 
-![Cost vs Iteration](cost_vs_iter.png)
+![Cost vs Iteration](Images/output.png)
 
 ---
 
@@ -31,11 +31,11 @@ This notebook uses **synthetic data** and provides visualizations:
 - **Sigmoid Function Alignment & Decision Boundary Visualization**  
   Shows how the sigmoid curve fits to the data distribution.
   
-![Cost vs Iteration](cost_vs_iter.png)
+![sigmoid](Images/logistic.gif)
 
 - **Contour Plot of Cost Function**  
   Demonstrates the optimization path taken by gradient descent.
 
-  ![Cost vs Iteration](cost_vs_iter.png)
+![contour](Images/contour.gif)
 
 ---

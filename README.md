@@ -36,6 +36,10 @@ This includes animated plots for step-by-step understanding:
 
   ![Sigmoid & Boundary](Images/logistic.gif)
 
+- **Cost vs W vs B Plot**
+
+- ![cost](Images/cost.png)
+
 - **Contour Plot of Cost Function**  
   - Visualizes the path taken by gradient descent while minimizing the cost  
 

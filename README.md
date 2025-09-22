@@ -54,7 +54,7 @@ git clone https://github.com/aditya0x77/From-Scratch-Logistic-Regression-with-Vi
 cd From-Scratch-Logistic-Regression-with-Visualizations
 
 # Install dependencies
-pip install numpy pandas matplotlib
+pip install numpy pandas matplotlib notebook
 
 # Launch Jupyter Notebook
 jupyter notebook

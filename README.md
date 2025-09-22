@@ -46,7 +46,23 @@ This includes animated plots for step-by-step understanding:
   ![Contour Plot](Images/contour.gif)
 
 ---
+## Installation & Usage 🚀
 
+```bash
+# Clone the repository
+git clone https://github.com/aditya0x77/From-Scratch-Logistic-Regression-with-Visualizations.git
+cd From-Scratch-Logistic-Regression-with-Visualizations
+
+# Install dependencies
+pip install numpy pandas matplotlib
+
+# Launch Jupyter Notebook
+jupyter notebook
+
+# Open the notebooks:
+# Logistic_Regression_Notebook.ipynb  → Train logistic regression on the dataset, plot cost vs iteration, and visualize decision boundary
+# Logistic_Regression_Visuals.ipynb   → Visual intuition with synthetic datasets (sigmoid curve, cost surface, animated plots)
+```
 ## 🌃 End of the Line, Choomba  
 
 Thanks for checking out this little project.  

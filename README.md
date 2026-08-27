@@ -63,9 +63,3 @@ jupyter notebook
 # Logistic_Regression_Notebook.ipynb  → Train logistic regression on the dataset, plot cost vs iteration, and visualize decision boundary
 # Logistic_Regression_Visuals.ipynb   → Visual intuition with synthetic datasets (sigmoid curve, cost surface, animated plots)
 ```
-## 🌃 End of the Line, Choomba  
-
-Thanks for checking out this little project.  
-BYE! BYE!
-
-![Goodbye GIF](Images/Johnny.gif)
